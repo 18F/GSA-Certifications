@@ -1,0 +1,8 @@
+schema_version: "1.0.0"
+name: GSA Certifications
+metadata:
+  description: "GSA specific certifications"
+  maintainers:
+    - gabriel.ramirez@gsa.gov
+certifications:
+  - ./LATO.yaml
